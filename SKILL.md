@@ -4,7 +4,8 @@ description: Expose what lies beneath surface presentations by applying Dostoevs
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5247
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - underground-voice-analysis
 - writing
